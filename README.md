@@ -4,6 +4,12 @@ A modern and responsive **React Weather App** built with **Vite**, **Material UI
 This project demonstrates how to fetch and display real time weather data with a clean UI and user friendly search functionality.
 
 ---
+ 
+## 🌍 Live Preview
+
+🔗  https://weather-vibes.netlify.app/
+
+---
 
 ## 🚀 Features
 
